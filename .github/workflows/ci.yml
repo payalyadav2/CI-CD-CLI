@@ -36,4 +36,4 @@ jobs:
     #     pytest
     - name: Run ruff
       run: |
-        ruff check .
+        ruff check 
